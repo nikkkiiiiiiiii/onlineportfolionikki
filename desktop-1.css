@@ -1,0 +1,962 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-ny5 {
+  width: 100%;
+  height: 344.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-ny5 .home-ynf {
+  width: 197.3rem;
+  height: 299.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB {
+  width: 144rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 {
+  box-sizing: border-box;
+  padding: 0rem 6.1rem 0rem 3.9rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .mirror-remove-1-wuq {
+  margin-right: 35.25rem;
+  width: 43.3rem;
+  height: 57.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs {
+  margin-top: 7.7rem;
+  width: 55.45rem;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .auto-group-wnoy-Anb {
+  margin: 0rem 0rem 11.5rem 3.1rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .auto-group-wnoy-Anb .home-JA3 {
+  margin: 0.4rem 5.1rem 0rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .auto-group-wnoy-Anb .about-hhy {
+  margin-right: 4.9rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .auto-group-wnoy-Anb .works-bYT {
+  margin-right: 3.65rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .auto-group-wnoy-Anb .contacts-vqd {
+  margin-bottom: 0.4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .hi-its-me-nikki-altura-aspiring-web-developer-rDV {
+  width: 100%;
+  max-width: 41.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .hi-its-me-nikki-altura-aspiring-web-developer-rDV .hi-its-me-nikki-altura-aspiring-web-developer-rDV-sub-0 {
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .auto-group-vuth-3xs .hi-its-me-nikki-altura-aspiring-web-developer-rDV .hi-its-me-nikki-altura-aspiring-web-developer-rDV-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffac4b;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b {
+  box-sizing: border-box;
+  padding: 1.5rem 2.1rem 1rem 5.75rem;
+  width: 100%;
+  height: 14.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #dcc2a2;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b .as-an-it-student-pursuing-web-development-im-stepping-into-a-dynamic-and-ever-evolving-field-that-combines-creativity-and-technical-skills-im-passionate-about-user-experience-ux-and-strive-to-create-websites-that-are-intuitive-user-friendly-and-accessible-to-all-YXZ {
+  margin-right: 4.65rem;
+  max-width: 83.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-style: italic;
+  color: #055dc0;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b .as-an-it-student-pursuing-web-development-im-stepping-into-a-dynamic-and-ever-evolving-field-that-combines-creativity-and-technical-skills-im-passionate-about-user-experience-ux-and-strive-to-create-websites-that-are-intuitive-user-friendly-and-accessible-to-all-YXZ .as-an-it-student-pursuing-web-development-im-stepping-into-a-dynamic-and-ever-evolving-field-that-combines-creativity-and-technical-skills-im-passionate-about-user-experience-ux-and-strive-to-create-websites-that-are-intuitive-user-friendly-and-accessible-to-all-YXZ-sub-0 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.5;
+  font-style: italic;
+  color: #055dc0;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b .as-an-it-student-pursuing-web-development-im-stepping-into-a-dynamic-and-ever-evolving-field-that-combines-creativity-and-technical-skills-im-passionate-about-user-experience-ux-and-strive-to-create-websites-that-are-intuitive-user-friendly-and-accessible-to-all-YXZ .as-an-it-student-pursuing-web-development-im-stepping-into-a-dynamic-and-ever-evolving-field-that-combines-creativity-and-technical-skills-im-passionate-about-user-experience-ux-and-strive-to-create-websites-that-are-intuitive-user-friendly-and-accessible-to-all-YXZ-sub-1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.5;
+  font-style: italic;
+  color: #f5f5f5;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b .auto-group-nwaf-6sq {
+  margin: 1rem 3.9rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 2rem 6.1rem 0.6rem 5.4rem;
+  height: calc(100% - 3.4rem);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b .auto-group-nwaf-6sq .download-cv-bJo {
+  max-width: 10.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #055dc0;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b .auto-group-ustu-UNb {
+  margin: 1rem 0rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5rem 6.65rem 1.1rem 7.35rem;
+  width: 22.2rem;
+  height: calc(100% - 3.4rem);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .homee-aAB .auto-group-t75r-46b .auto-group-ustu-UNb .contact-me-MBV {
+  max-width: 8.2rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #055dc0;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd {
+  width: 100%;
+  height: 77.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .rectangle-5-XVH {
+  width: 197.3rem;
+  height: 60.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .as-a-web-developer-student-my-life-divided-into-the-world-of-coding-designing-and-building-websites-that-are-not-only-visually-appealing-but-also-functional-and-user-friendly-ive-already-learned-some-programming-languages-like-html-css-and-javascript-which-form-the-foundation-of-web-development-my-journey-involved-creating-responsive-and-interactive-websites-understanding-user-experience-ux-principles-and-implementing-the-latest-web-technologies-and-frameworks-whether-its-front-end-development-back-end-development-or-full-stack-development-i-have-the-opportunity-to-bring-ideas-to-life-on-the-web-web-development-field-offers-endless-opportunities-for-growth-and-innovation-so-embrace-the-challenges-stay-curious-and-let-your-passion-for-web-development-guide-you-towards-a-successful-and-fulfilling-career-fLb {
+  width: 71.1rem;
+  height: 48rem;
+  position: absolute;
+  left: 4.95rem;
+  top: 10rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #f5f5f5;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .sungay-remove-1-oUj {
+  width: 40.7rem;
+  height: 50.7rem;
+  position: absolute;
+  left: 97.3rem;
+  top: 9.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .lets-talk-j7V {
+  width: 14.3rem;
+  height: 3.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 97.15rem;
+  top: 39.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffac4b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .about-me--ot3 {
+  width: 28rem;
+  height: 6rem;
+  position: absolute;
+  left: 23.75rem;
+  top: 2.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffac4b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .rectangle-7-7dq {
+  width: 143.8rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0;
+  top: 60.1rem;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .vector-QN3 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 98.2rem;
+  top: 23.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .uil-facebook-v5V {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 100.8rem;
+  top: 28.9rem;
+  overflow: hidden;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .my-works--eGP {
+  width: 34.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 53.95rem;
+  top: 64.6rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffac4b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-cqwx-2Hd .these-are-my-works-during-my-journey-as-student-9iw {
+  width: 60.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 39.3rem;
+  top: 71.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM {
+  width: 143.8rem;
+  height: 149.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-6-JVM {
+  width: 143.8rem;
+  height: 67.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-6-bg.png');
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-8-Bp3 {
+  width: 143.8rem;
+  height: 67.3rem;
+  position: absolute;
+  left: 0;
+  top: 82.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-8-j4s {
+  width: 37.5rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-14-rvB {
+  width: 37.5rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 52.5rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-15-oKd {
+  width: 37.5rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 97.3rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-10-8sh {
+  width: 24.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 59.7rem;
+  top: 50.8rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-17-qn7 {
+  width: 24.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 103.9rem;
+  top: 50.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-13-nBZ {
+  width: 24.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 14rem;
+  top: 50.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-11-tEb {
+  width: 37.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 52.5rem;
+  top: 34.4rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-16-osM {
+  width: 37.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 97.3rem;
+  top: 34.4rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-12-wCs {
+  width: 37.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 34.4rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-18-GW3 {
+  width: 37.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 34.4rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-zwq {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 20.85rem;
+  top: 52.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-35-6V5 {
+  width: 24.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 5rem;
+  top: 134.7rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-S39 {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.85rem;
+  top: 136.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-37-ZNf {
+  width: 24.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 42rem;
+  top: 135.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-hUs {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 48.85rem;
+  top: 137.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-38-2GF {
+  width: 24.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 78.1rem;
+  top: 135rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-9rf {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.95rem;
+  top: 136.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-41-f4K {
+  width: 24.4rem;
+  height: 7.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 78.1rem;
+  top: 135rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-NDd {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.95rem;
+  top: 136.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-43-qd1 {
+  width: 24.4rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 114.4rem;
+  top: 135.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-NN3 {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 120.85rem;
+  top: 136.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-rY7 {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 110.35rem;
+  top: 52.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .view-page-ycj {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 66.45rem;
+  top: 52.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #26394d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .opportunity-to-showcase-my-creativity-such-as-editing-and-understanding-of-the-assigned-topic-h2w {
+  width: 34.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 10rem;
+  top: 36.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-25-aMd {
+  width: 32.9rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 120.1rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-26-g9m {
+  width: 32.9rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 120.1rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .opportunity-to-enhance-my-ability-and-what-i-have-learned-and-this-is-my-working-calculator-zgF {
+  width: 32.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.65rem;
+  top: 121.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-29-5Bu {
+  width: 34.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 120.2rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-30-zpf {
+  width: 34.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 120.2rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .opportunity-to-showcase-my-creativity-such-as-editing-and-understanding-of-the-assigned-topic-hUB {
+  width: 29.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 39.9rem;
+  top: 122.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-33-nEj {
+  width: 34.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 73.2rem;
+  top: 120.2rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-34-6mD {
+  width: 34.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 73.2rem;
+  top: 120.2rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .creating-a-divwhere-it-changes-color-if-you-click-a-button-tag-i-really-like-it-1NP {
+  width: 27.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 77.25rem;
+  top: 122.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-31-svP {
+  width: 34.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 120.2rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-32-QfR {
+  width: 34.5rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 120.2rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .creating-a-todo-list-app-using-javascript-with-crud-create-read-update-delete-features-jhh {
+  width: 29.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 40.05rem;
+  top: 122.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .creating-a-responsive-landing-page-using-html-css-and-javascript-to-add-functionality-to-my-website-bzo {
+  width: 34.3rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 98.45rem;
+  top: 35.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .simple-online-resume-using-html-and-css-only-to-widen-my-skills-about-web-development-tDD {
+  width: 31.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 55.4rem;
+  top: 36.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-20-mno {
+  width: 143.8rem;
+  height: 18rem;
+  position: absolute;
+  left: 0;
+  top: 66.3rem;
+  background-color: #121b2a;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-21-6aB {
+  width: 32.8rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 87.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-23-R6f {
+  width: 32.7rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 37.8rem;
+  top: 88.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-40-kud {
+  width: 32.7rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 88.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-44-h4B {
+  width: 33.6rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 73.2rem;
+  top: 88.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-45-E47 {
+  width: 31.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 110.6rem;
+  top: 120.1rem;
+  box-shadow: 0 0.4rem 0.3rem #055dc0;
+  background-color: #26394d;
+}
+.desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .creating-a-3-buttons-with-different-addeventlistener-i-found-myself-enjoying-doing-it-ijy {
+  width: 27.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 111.85rem;
+  top: 121.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .rectangle-39-Pr7 {
+  width: 143.8rem;
+  height: 57.2rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 294.4rem;
+  background-color: #704453;
+}
+.desktop-1-ny5 .contact-me--8oh {
+  width: 37.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 47.95rem;
+  top: 299.1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-style: italic;
+  color: #ffac4b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .vector-3fm {
+  width: 7.4rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 86.6rem;
+  top: 313.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-ny5 .location-on-PDq {
+  width: 30.7rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 83.7rem;
+  top: 324.9rem;
+  overflow: hidden;
+}
+.desktop-1-ny5 .vector-j2o {
+  width: 7.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 320.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-ny5 .nikki-altura-Ykw {
+  width: 15.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 21.9rem;
+  top: 313.7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .nikki-altura-Tsu {
+  width: 15.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 95.9rem;
+  top: 313.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .nikkidichosoalturagmailcom-m7u {
+  width: 39.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 96rem;
+  top: 321.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-ny5 .purok-riverside-brgy-mayao-castillo-lucena-city-3r7 {
+  width: 35.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 21.8rem;
+  top: 320.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-ny5 .gmail-login-WUo {
+  width: 10.5rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 85.5rem;
+  top: 319.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-ny5 .speech-dJX {
+  width: 11.6rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 311.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
